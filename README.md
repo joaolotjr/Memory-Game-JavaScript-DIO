@@ -6,13 +6,13 @@ ___
   <img src="https://user-images.githubusercontent.com/54115624/101105695-f706d800-35ac-11eb-9116-3c72f2a130c0.png" width="100" heigth="100">
 </p>
 
-<!--
+
 <p align="center">
   <a href="LICENSE">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
   </a>
 </p>
--->
+
 
 ___
 
