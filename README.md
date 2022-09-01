@@ -27,10 +27,7 @@ ___
 ___
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/54115624/101105710-04bc5d80-35ad-11eb-88da-473b63df7a45.png" width="600">
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/54115624/101105720-0ede5c00-35ad-11eb-833b-a598b3b69e28.png" height="400">
+  <img src="https://user-images.githubusercontent.com/102186193/187985522-2b143a0a-4722-4066-8424-5c40dea159db.png" width="600">
 </p>
 
 ## :information_source: Sobre
