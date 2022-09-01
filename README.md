@@ -8,7 +8,7 @@ ___
 
 
 <p align="center">
-  <a href="LICENSE">
+  <a href="https://github.com/joaolotjr/Memory-Game-JavaScript-DIO/blob/main/LICENSE.txt">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
   </a>
 </p>
