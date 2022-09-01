@@ -23,7 +23,7 @@ function checkForMath() {
         disableCards();
         return;
     }
-    unflipCard();
+    unflipCards();
 
 }
 
@@ -35,7 +35,7 @@ function disableCards(){
 
 }
 
-function unflipCard(){
+function unflipCards(){
     lockBoard = true;
 
     setTimeout(()=>{
@@ -53,9 +53,17 @@ function resetBoard(){
 
 }
 
+(function shuffle(){
+    cards.forEach((card) => {
+        let randomPosition = Math.floor(Math.random() * 12);
+        card.style.order = randomPosition;
+    })
+}) ();
+
 cards.forEach((card) => {
     card.addEventListener('click', flipCard)
 });
+
 
 
 
